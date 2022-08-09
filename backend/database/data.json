@@ -1,0 +1,30 @@
+[
+    {
+        "_id": {
+            "$oid": "62f25c7ae6655cf29b28cc4a"
+        },
+        "checkbox": "isApple,isOrange,isBanana,isCherry,isAvocado",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "62f25c7fe6655cf29b28cc4c"
+        },
+        "checkbox": "isApple,isBanana,isAvocado",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "62f25c81e6655cf29b28cc4e"
+        },
+        "checkbox": "isBanana",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "62f25d9ae6655cf29b28cc50"
+        },
+        "checkbox": "isApple",
+        "__v": 0
+    }
+]
